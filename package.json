@@ -1,5 +1,5 @@
 {
-  "name": "react-slider",
+  "name": "@richeroneren/react-slider-private",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "React slider build using **Styled-Component** react package for styling.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richeroneren/react-slider-pv.git"
+  },
+  "keywords": [
+    "react",
+    "slider"
+  ],
+  "author": "richeroneren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richeroneren/react-slider-pv/issues"
+  },
+  "homepage": "https://github.com/richeroneren/react-slider-pv#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
